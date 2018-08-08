@@ -1,11 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Parent Updated</h1>
-    <h1>Child Branch - 4</h1>
-    <h1>Child Branch - 2</h1>
-    <h1>Child Branch - 1</h1>
-    <h1>Child Branch - New 2</h1>
-    <h1>Child Branch - New 1</h1>
+      <h1>Child Branch - New 1</h1>
     <h1>{{ msg }}</h1>
     <p>
       For guide and recipes on how to configure / customize this project,<br>
